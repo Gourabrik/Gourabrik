@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:*AI automation*
-- 🌱 **I’m currently learning:*B.Tech CSE AIML in Brainware University*
-- 👯 **I’m looking to collaborate on:*Web development*
-- 🤔 **I’m looking for help with:*AI automation specialist*
-- 💬 **Ask me about:*Basic programming*
+- 🔭 **I’m currently working on:* AI automation*
+- 🌱 **I’m currently learning:* B.Tech CSE AIML in Brainware University*
+- 👯 **I’m looking to collaborate on:* Web development*
+- 🤔 **I’m looking for help with:* AI automation specialist*
+- 💬 **Ask me about:* Basic programming*
 - 📫 **How to reach me:* gourabrik2005@gmail.com*
 - 😄 **Pronouns:** Gourab Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
