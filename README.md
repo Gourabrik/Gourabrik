@@ -32,15 +32,10 @@ Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or An
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gourabrik&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gourabrik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gourabrik&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gourabrik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
