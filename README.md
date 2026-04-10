@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or An
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://gourabbiswas.netlify.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
 ## 🏆 GitHub Trophies
