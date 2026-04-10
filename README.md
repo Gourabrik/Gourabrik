@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Gourab Biswas
-**A passionate AIML Engineer || Web developer || Team Phoenix Leader from India**
+# Hi 👋, I'm Gourab Biswas
+**A passionate AIML Engineer || Python & Full Stack Developer  || Building GenAI Tools & apps**
 
 Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -26,12 +26,12 @@ Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or An
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gourabrik&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gourabrik&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gourabrik&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Gourabrik&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gourabrik&theme=radical">
 
 </div>
 
-![](https://gourabbiswas.netlify.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourabrik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
 ## 🏆 GitHub Trophies
