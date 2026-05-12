@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **gourabrik2005@gmail.com** For Collaboration/Project or An
 - 🤔 **I’m looking for help with:* AI automation specialist*
 - 💬 **Ask me about:* Basic programming*
 - 📫 **How to reach me:* gourabrik2005@gmail.com*
-- 😄 **Pronouns:** Gourab Sir
+- 😄 **Pronouns:** Gourab Biswas 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
